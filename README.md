@@ -11,4 +11,4 @@ All required files are available  Just clone this repo or download zip and Enjoy
 Read documentation to know how to adjust the effect to  your liking.
 
 ## live site can be viewed here
-https://peter-kimanzi.github.io/water-ripple-effect/
+https://hell59.github.io/water-ripple-effect/
